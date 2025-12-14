@@ -1,0 +1,19 @@
+﻿{
+	"pack": {
+		"description": [
+				{"text":"Loyalty", "color":"#9c0000"},
+				{"text":" & ", "color":"white"},
+				{"text":"Riptide", "color":"#3631c2"},
+				{"text":" Colors!", "color":"white"},
+				"\n",
+				{"text":"Made by Indy ", "color":"#bdbdbd"},
+				{"player": {"name":"Tatertot5"}, "color":"white"},
+				{"text":" / ", "color":"#bdbdbd"},
+				{"player": {"name":"Indy_Indigo"}, "color":"white"}
+			],
+		"pack_format": 69,
+		"min_format": [16, 0],
+		"max_format": [500, 0],
+		"supported_formats": [16, 500]
+		}
+}

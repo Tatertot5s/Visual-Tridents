@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#16341A",
+        "titleBar.activeBackground": "#1E4824",
+        "titleBar.activeForeground": "#F8FCF8"
+    },
+    "workbench.iconTheme": "mc-dp-icons"
+}
