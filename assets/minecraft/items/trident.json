@@ -53,9 +53,8 @@
 								"model": "minecraft:item/loyalty_throwing"
 							},
 							"on_false": {
-								"type": "minecraft:special",
-								"model": {"type": "minecraft:trident"},
-								"base": "minecraft:item/trident_throwing"
+								"type": "model",
+								"model": "minecraft:item/trident_throwing"
 							}
 						}
 					},
@@ -78,9 +77,8 @@
 								"model": "minecraft:item/loyalty_in_hand"
 							},
 							"on_false": {
-								"type": "special",
-								"model": {"type": "minecraft:trident"},
-								"base": "minecraft:item/trident_in_hand"
+								"type": "model",
+								"model": "minecraft:item/trident_in_hand"
 							}
 						}
 				}
