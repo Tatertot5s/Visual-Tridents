@@ -1,9 +1,9 @@
 ﻿{
 	"pack": {
-		"pack_format": 84,
+		"pack_format": 97,
 		"min_format": 64,
-		"max_format": 84,
-		"supported_formats": [64, 84],
+		"max_format": 97,
+		"supported_formats": [64, 97],
 		"description": [
 				{"text":"Loyalty", "color":"#9c0000"},
 				{"text":" & ", "color":"white"},
